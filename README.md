@@ -12,7 +12,7 @@ push notification with firebase in iOS
  
 ## Usage
  - install podFile
- - drag and drop firebase googlePlist to your project
+ - drag and drop firebase googleplist to your project
  
  
 
