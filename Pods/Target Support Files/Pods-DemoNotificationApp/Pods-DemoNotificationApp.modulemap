@@ -1,0 +1,6 @@
+framework module Pods_DemoNotificationApp {
+  umbrella header "Pods-DemoNotificationApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
